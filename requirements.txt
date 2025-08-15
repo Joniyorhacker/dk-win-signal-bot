@@ -1,0 +1,4 @@
+dk-win-signal-bot/requirements.txt
+
+python-telegram-bot>=20.8
+python-dotenv
